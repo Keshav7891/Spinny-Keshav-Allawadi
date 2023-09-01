@@ -8,7 +8,7 @@ Password : keshav
 </pre>
 <br/>
 <pre>
-Staff:   https://heykeshav.pythonanywhere.com/api-auth/
+Staff:   https://heykeshav.pythonanywhere.com/api-auth/login
 Username : user1
 Password : user1
 </pre>
